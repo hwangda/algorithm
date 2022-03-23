@@ -1,4 +1,4 @@
-public class BadNeightbors {
+public class BadNeighbors {
     public static int maxDonations(int[] donations){
         int ans = 0;
         int[] dp = new int[donations.length];
